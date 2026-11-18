@@ -1,0 +1,38 @@
+{
+  "name": "catalogmint",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --conditions=react-server --import tsx --test tests/backups.test.ts tests/network.test.ts"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.1",
+    "docx": "^9.15.4",
+    "exceljs": "^4.4.0",
+    "ipaddr.js": "^2.5.0",
+    "jspdf": "^4.2.1",
+    "linkedom": "^0.18.15",
+    "lucide-react": "^1.31.0",
+    "next": "16.3.4",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "server-only": "0.0.1",
+    "undici": "^7.30.2"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.16",
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "tsx": "^4.23.15",
+    "typescript": "5.9.3"
+  }
+}

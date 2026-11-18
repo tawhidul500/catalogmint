@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chaldal-23984",
+    "nameEn": "Lux Soap Bar Soft Glow",
+    "nameBn": "লাক্স সাবান সফট গ্লো",
+    "code": "23984",
+    "codeType": "Product ID",
+    "size": "150 gm",
+    "category": "Personal care",
+    "sourceUrl": "https://chaldal.com/lux-soap-bar-soft-glow-150-gm",
+    "imageUrl": "https://i.chaldn.com/_mpimage/lux-soap-bar-soft-glow-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128287&q=best&v=1&m=400",
+    "localImage": "/example/lux.jpg"
+  },
+  {
+    "id": "chaldal-2258",
+    "nameEn": "Ispahani Mirzapore Best Leaf Tea",
+    "nameBn": "ইস্পাহানি মির্জাপুর বেস্ট লিফ টি",
+    "code": "2258",
+    "codeType": "Product ID",
+    "size": "200 gm",
+    "category": "Tea & beverages",
+    "sourceUrl": "https://chaldal.com/ispahani-mirzapore-best-leaf-tea-200-gm",
+    "imageUrl": "https://i.chaldn.com/_mpimage/ispahani-mirzapore-best-leaf-tea-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129554&q=best&v=1",
+    "localImage": "/example/tea.jpg"
+  },
+  {
+    "id": "chaldal-2111",
+    "nameEn": "Aarong Dairy Pasteurized Liquid Milk",
+    "nameBn": "আড়ং ডেইরি পাস্তুরিত তরল দুধ",
+    "code": "2111",
+    "codeType": "Product ID",
+    "size": "1 ltr",
+    "category": "Dairy",
+    "sourceUrl": "https://chaldal.com/aarong-dairy-pasteurized-liquid-milk-1-ltr",
+    "imageUrl": "https://i.chaldn.com/_mpimage/aarong-dairy-pasteurized-liquid-milk-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D119561&q=best&v=1",
+    "localImage": "/example/milk.jpg"
+  },
+  {
+    "id": "chaldal-2416",
+    "nameEn": "Radhuni Turmeric (Holud) Powder",
+    "nameBn": "রাঁধুনী হলুদের গুঁড়া",
+    "code": "2416",
+    "codeType": "Product ID",
+    "size": "100 gm",
+    "category": "Spices",
+    "sourceUrl": "https://chaldal.com/radhuni-turmeric-holud-powder-100-gm",
+    "imageUrl": "https://i.chaldn.com/_mpimage/radhuni-turmeric-holud-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132554&q=best&v=1",
+    "localImage": "/example/spice.jpg"
+  },
+  {
+    "id": "chaldal-36230",
+    "nameEn": "Teer Fortified Soyabean Oil",
+    "nameBn": "তীর ফর্টিফাইড সয়াবিন তেল",
+    "code": "36230",
+    "codeType": "Product ID",
+    "size": "1 ltr",
+    "category": "Cooking oil",
+    "sourceUrl": "https://chaldal.com/teer-fortified-soyabean-oil-1-ltr",
+    "imageUrl": "https://i.chaldn.com/_mpimage/teer-fortified-soyabean-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136109&q=best&v=1",
+    "localImage": "/example/oil.jpg"
+  },
+  {
+    "id": "chaldal-2167",
+    "nameEn": "Chashi Aromatic Chinigura Rice",
+    "nameBn": "চাষী সুগন্ধি চিনিগুড়া চাল",
+    "code": "2167",
+    "codeType": "Product ID",
+    "size": "1 kg",
+    "category": "Rice & grains",
+    "sourceUrl": "https://chaldal.com/chasi-aromatic-rice-chinigura-1-kg-5",
+    "imageUrl": "https://i.chaldn.com/_mpimage/chashi-aromatic-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126657&q=best&v=1",
+    "localImage": "/example/rice.jpg"
+  }
+]
